@@ -190,6 +190,7 @@ text-align: center;
     background:rgb(237, 50, 55);
     padding:2%;
     width:25%;
+    border-radius:5px;
     text-align: center;
 }
 .food-text h2{
